@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Konnichiwa 🎌, I am Hosam Sheboun
+  Konnichiwa 🇯🇵, I am Hosam Sheboun
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 
 ## About Me
 
-* 🌍 **Background:** Born and raised in Qatar; currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**.
+* 🌍 **Background:** Born and raised in Qatar; currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**[cite: 4].
 * 🔬 **Passion:** Bridging low-level hardware prototyping with high-level artificial intelligence architectures.
 
 ---
@@ -39,7 +39,7 @@
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,go,ruby,kotlin,js,html,css,bash,raspberrypi,arduino,espressif,git,docker,linux,arch,kali,vscode,kicad&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,bash,raspberrypi,arduino,espressif,react,nodejs,npm,mysql,mongodb,firebase,wordpress,git,gitlab,docker,linux,arch,kali,terminal,vscode,neovim,postman,kicad,blender,photoshop,figma,unity,unreal,godot,powerbi&perline=7" />
 </p>
 
 ---
