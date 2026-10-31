@@ -50,30 +50,32 @@
 
 ## Projects
 
-### **Completed Projects**
+### 🏫 Completed Projects (Grades 7 – 12)
+
+#### **AI & Autonomous Systems**
 * **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers[cite: 4].
 * **Intelligent Vehicle Speed Control System:** Developed a multi-phase system featuring color-detection road sign parsing followed by an upgraded HC-12 wireless communication architecture for automated vehicle speed regulation[cite: 4, 5].
+* **H AI System:** Custom modular Python engine featuring core predictive logic, logging, and knowledge databases.
+* **Autonomous Sumo Robot:** Built and tested an autonomous sumo robot platform exploring reinforcement learning and decision-making algorithms powered by a Raspberry Pi Zero 2 W.
+
+#### **Embedded Systems, Hardware & Circuit Design**
+* **Embedded Memory Latch:** Built a 2-bit breadboard register using 74-series digital logic ICs.
+* **Dual-Board Robotics Platform:** Integrated an ESP32 and ESP32-CAM module with MPU6050 sensor stabilization over I2C communication.
+* **KiCad PCB Projects:** Designed custom circuits including *H Board* and specialized LED control boards.
+* **Retro Pi Integration:** Configured retro gaming emulation rigs, custom ROM structures, and system scripts.
+
+#### **Web Development & Platforms**
 * **H Karate – Professional Tournament Scoring System:** Developed a dedicated web platform for tracking competitive Karate matches ([Live App](https://h-karate-app.web.app)).
 * **Energy Clicker:** Interactive web application built using vanilla HTML, CSS, and JavaScript.
 * **Websites & Portfolios:** Developed multiple web properties including *Hosam's website*, *Karate Masters Academy*, *Schedule*, *The Nano Wall*, and custom sites for peers.
 * **Competition Frameworks (Ibtikar & ICF 2026):** Developed specialized software and application prototypes for national science and innovation exhibitions.
 
-### **Embedded Systems, Hardware & Circuit Design**
-* **KiCad PCB Projects:** Designed custom circuits including *H Board* and specialized LED control boards.
-* **Retro Pi Integration:** Configured retro gaming emulation rigs, custom ROM structures, and system scripts.
-
-### **Game Development & Software Apps**
+#### **Game Development & Minecraft Mods**
 * **Hosam's 3D Game:** Interactive 3D project built using Scratch (SB3).
 * **Minecraft Mods:** Developed custom content including *Hozilum* and *Microbes* mod packages.
 
-### **Python & AI Explorations**
-* **H AI System:** Custom modular Python engine featuring core predictive logic, logging, and knowledge databases.
-* **Utilities & Tools:** Built standalone scripts for Morse code translation, network scanning, sound detection, file integrity checking, and encrypted communications.
-
-### **Ongoing Explorations**
-* **Autonomous Sumo Robot:** Exploring reinforcement learning and autonomous decision-making algorithms powered by a Raspberry Pi Zero 2 W.
-* **Embedded Memory Latch:** Designing a 2-bit breadboard register built using 74-series digital logic ICs.
-* **Dual-Board Robotics Platform:** Integrating an ESP32 and ESP32-CAM module with MPU6050 sensor stabilization over I2C communication.
+#### **Python Tools & Security Utilities**
+* **System & Security Scripts:** Built standalone tools for Morse code translation, network scanning, sound detection, file integrity checking, and encrypted communications.
 
 ---
 
