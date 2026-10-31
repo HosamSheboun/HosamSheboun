@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hosam-sheboun-b12286439/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/HosamSheboun"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:hosamsheboun@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -39,12 +39,7 @@
 ## Languages and Tools:
 
 <p align="center">
-  <b>Programming Languages & Core Tech</b><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,bash" /><br><br>
-  <b>Embedded Systems, Frameworks & Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,espressif,react,nodejs,npm,mysql,mongodb,firebase,wordpress" /><br><br>
-  <b>DevOps, OS, Design & Game Engines</b><br>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,linux,arch,kali,terminal,vscode,neovim,postman,kicad,blender,photoshop,figma,unity,unreal,godot,powerbi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=7" />
 </p>
 
 ---
@@ -71,12 +66,3 @@
 
 * **Founder & Team Leader – The Quantum Paradox Tech Team:** Founded and directed a student technology team, managing project development, workflow organization, and mentoring peers in programming and electronics[cite: 5]. Trusted by educators with team formation and technical mentorship.
 * **Karate Instructor & Competitor:** Active coach and competitor at Karate Masters Academy holding a 1-Dan black belt recognized by the Qatar Taekwondo, Judo & Karate Federation[cite: 5, 6]. Fosters discipline, strategic thinking, teamwork, and athlete development[cite: 5].
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosamSheboun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosamSheboun&layout=compact&theme=tokyonight&hide_border=true" height="195" />
-</p>
