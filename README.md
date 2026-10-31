@@ -1,25 +1,52 @@
 # ⚡ Hosam Sheboun
 
-**AI & Robotics Engineer | Hardware Enthusiast | Karate Instructor**
+**AI & Robotics Researcher | Embedded Systems Developer | Karate Instructor**
 
-Passionate about bridging low-level hardware prototyping with high-level AI architectures. Currently pursuing Computer Science & Information Technology at E-JUST.
+Passionate about bridging low-level hardware prototyping with high-level AI architectures. Born and raised in Qatar, currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**[cite: 4].
 
 ---
 
-### 🛡️ Skills & Technologies
+### 🏆 Honors & Scientific Achievements
 
-#### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
+* **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition[cite: 10].
+* **3rd Place – Arab Robotics Championship:** Represented Qatar internationally, contributing to algorithm development and strategic decision-making for the robotics team[cite: 5, 8].
+* **3rd Place – FIRST Tech Challenge:** Regional engineering competition achievement in Grade 10.
+* **Gold Award – Ibtikar:** Scientific innovation competition recognition in Grade 11[cite: 5, 11].
+* **2nd Place – Ibtikar:** Scientific innovation competition achievement[cite: 5, 9].
+* **3rd Place – Ball Collection Robot Competition:** Robotics engineering competition[cite: 5, 8].
 
-#### Hardware & Embedded Systems
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314159?style=for-the-badge&logo=kicad&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+### 🛡️ Technical Skills & Stack
+
+* **Programming Languages:** C, C++, Python, JavaScript, HTML, CSS[cite: 4]
+* **Embedded Systems & IoT:** Raspberry Pi, ESP32, Arduino, Sensors & Actuators[cite: 4]
+* **Hardware & Electronics:** Digital Logic, Circuit Design, PCB Design using KiCad, Sensor Integration
+* **AI & Data:** Machine Learning, Predictive Modeling, Neural Networks, Computer Vision[cite: 4]
+* **Tools & Frameworks:** Flask, Git, Docker, System Architecture, Algorithm Optimization[cite: 4]
+
+---
+
+### 🚀 Projects
+
+#### **Completed Projects**
+* **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers[cite: 4].
+* **Intelligent Vehicle Speed Control System:** Developed a multi-phase system featuring color-detection road sign parsing followed by an upgraded HC-12 wireless communication architecture for automated vehicle speed regulation[cite: 4, 5].
+* **H Karate – Professional Tournament Scoring System:** Developed a dedicated web platform for tracking competitive Karate matches ([Live App](https://h-karate-app.web.app)).
+* **Energy Clicker:** Interactive web application built using vanilla HTML, CSS, and JavaScript.
+
+#### **Ongoing Projects & Explorations**
+* **Autonomous Sumo Robot:** Exploring reinforcement learning and autonomous decision-making algorithms powered by a Raspberry Pi Zero 2 W.
+* **Embedded Memory Latch:** Designing a 2-bit breadboard register built using 74-series digital logic ICs.
+* **Dual-Board Robotics Platform:** Integrating an ESP32 and ESP32-CAM module with MPU6050 sensor stabilization over I2C communication.
+
+---
+
+### 👔 Leadership & Extracurricular Experience
+
+* **Founder & Team Leader – The Quantum Paradox Tech Team:** Founded and directed a student technology team, managing project development, workflow organization, and mentoring peers in programming and electronics[cite: 5]. Trusted by educators with team formation and technical mentorship.
+* **Karate Instructor & Competitor:** Active coach and competitor at Karate Masters Academy holding a 1-Dan black belt recognized by the Qatar Taekwondo, Judo & Karate Federation[cite: 5, 6]. Fosters discipline, strategic thinking, teamwork, and athlete development[cite: 5].
 
 ---
 
@@ -29,14 +56,6 @@ Passionate about bridging low-level hardware prototyping with high-level AI arch
   <img src="https://github-readme-stats.vercel.app/api?username=HosamSheboun&show_icons=true&theme=tokyonight&count_private=true" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosamSheboun&layout=compact&theme=tokyonight" height="175" />
 </p>
-
----
-
-### 🚀 Active Projects
-* **Autonomous Sumo Robot:** Reinforcement-learning sumo robot built on Raspberry Pi Zero 2 W.
-* **Embedded Memory Latch:** 2-bit breadboard register designed with 74-series logic gate ICs.
-* **Dual-Board Robotics Platform:** ESP32 and ESP32-CAM integration with MPU6050 sensor stabilization over I2C.
-* **Energy Clicker:** Interactive web-based application built with vanilla HTML/CSS/JS.
 
 ---
 
