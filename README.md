@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Konnichiwa 🎌, I am Hosam Sheboun
+  Konnichiwa 🇯🇵, I am Hosam Sheboun
 </h1>
 
 <h3 align="center">
@@ -27,17 +27,17 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,matlab,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,matlab,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,panda3d,kicad&perline=14" />
 </p>
 
 ---
 
 ## Honors & Scientific Achievements
 
-### University / College Achievements (E-JUST)
+### 🎓 University / College Achievements (E-JUST)
 * **Open Sumo Competition Participant (Team Titan-X):** Represented team **Titan-X** in the university's open sumo robotics competition, marking my first official competitive achievement in college.
 
-### School Achievements (Grades 7 – 12)
+### 🏫 School Achievements (Grades 7 – 12)
 * **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
 * **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition[cite: 10].
 * **3rd Place – Arab Robotics Championship:** Represented Qatar internationally, contributing to algorithm development and strategic decision-making for the robotics team[cite: 5, 8].
@@ -55,6 +55,20 @@
 * **Intelligent Vehicle Speed Control System:** Developed a multi-phase system featuring color-detection road sign parsing followed by an upgraded HC-12 wireless communication architecture for automated vehicle speed regulation[cite: 4, 5].
 * **H Karate – Professional Tournament Scoring System:** Developed a dedicated web platform for tracking competitive Karate matches ([Live App](https://h-karate-app.web.app)).
 * **Energy Clicker:** Interactive web application built using vanilla HTML, CSS, and JavaScript.
+* **Websites & Portfolios:** Developed multiple web properties including *Hosam's website*, *Karate Masters Academy*, *Schedule*, *The Nano Wall*, and custom sites for peers.
+* **Competition Frameworks (Ibtikar & ICF 2026):** Developed specialized software and application prototypes for national science and innovation exhibitions.
+
+### **Embedded Systems, Hardware & Circuit Design**
+* **KiCad PCB Projects:** Designed custom circuits including *H Board* and specialized LED control boards.
+* **Retro Pi Integration:** Configured retro gaming emulation rigs, custom ROM structures, and system scripts.
+
+### **Game Development & Software Apps**
+* **Hosam's 3D Game:** Interactive 3D project built using Scratch (SB3).
+* **Minecraft Mods:** Developed custom content including *Hozilum* and *Microbes* mod packages.
+
+### **Python & AI Explorations**
+* **H AI System:** Custom modular Python engine featuring core predictive logic, logging, and knowledge databases.
+* **Utilities & Tools:** Built standalone scripts for Morse code translation, network scanning, sound detection, file integrity checking, and encrypted communications.
 
 ### **Ongoing Explorations**
 * **Autonomous Sumo Robot:** Exploring reinforcement learning and autonomous decision-making algorithms powered by a Raspberry Pi Zero 2 W.
