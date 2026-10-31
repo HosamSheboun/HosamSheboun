@@ -45,7 +45,7 @@
 * **Gold Award – Ibtikar:** Recognized for scientific innovation in Grade 11[cite: 5, 11].
 * **2nd Place – Ibtikar:** National scientific innovation competition achievement[cite: 5, 9].
 * **3rd Place – Ball Collection Robot Competition:** Local robotics engineering competition[cite: 5, 8].
-* **Competition Applications & Frameworks (Ibtikar & ICF 2026):** Developed specialized software, application prototypes, and biology application projects for national scientific exhibitions.
+* **Competition Applications & Frameworks (Ibtikar, ICF 2026 & Biology App):** Developed specialized software, application prototypes, and biology application projects (`مسابقة التطبيق - احياء`) for national scientific exhibitions.
 
 ---
 
@@ -68,14 +68,14 @@
 #### **Web Development & Platforms**
 * **H Karate – Professional Tournament Scoring System:** Developed a dedicated web platform for tracking competitive Karate matches ([Live App](https://h-karate-app.web.app)).
 * **Energy Clicker:** Interactive web application built using vanilla HTML, CSS, and JavaScript.
-* **Websites & Portfolios:** Developed multiple web properties including *Hosam's website*, *Karate Masters Academy*, *Schedule*, *The Nano Wall*, and custom sites for peers.
+* **Websites & Portfolios:** Developed multiple web properties including *Hosam's website*, *Karate Masters Academy*, *Schedule*, *The Nano Wall*, *My Team*, and client sites like *For Tarek*.
 
 #### **Game Development & Minecraft Mods**
-* **Hosam's 3D Game:** Interactive 3D project built using Scratch (SB3).
+* **Hosam's 3D Game:** Interactive 3D game built using Scratch (SB3).
 * **Minecraft Mods:** Developed custom content including *Hozilum* and *Microbes* mod packages.
 
 #### **Python Tools & Security Utilities**
-* **System & Security Scripts:** Built standalone tools for Morse code translation, network scanning, sound detection, file integrity checking, and encrypted communications.
+* **System & Security Scripts:** Built standalone tools for Morse code translation, network scanning, sound detection, file integrity checking (`Files check`), encryption/decryption (`encrypt-decrypt`), basic utilities, and custom graphics scripts.
 
 ---
 
