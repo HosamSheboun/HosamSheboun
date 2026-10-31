@@ -52,7 +52,7 @@
 
 ## Projects
 
-### 🏫 Completed Projects (Grades 7 – 12)
+### Completed Projects (Grades 7 – 12)
 
 #### **AI & Autonomous Systems**
 * **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers[cite: 4].
