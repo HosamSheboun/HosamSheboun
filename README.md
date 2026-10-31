@@ -35,16 +35,17 @@
 ## Honors & Scientific Achievements
 
 ### 🎓 University / College Achievements (E-JUST)
-* **Open Sumo Competition Participant (Team Titan-X):** Represented team **Titan-X** in the university's open sumo robotics competition, marking my first official competitive achievement in college.
+* **Open Sumo Competition Participant (Team Titan-X):** Represented team **Titan-X** in the university's open sumo robotics competition, designing and deploying a competitive robotics platform optimized for match strategy and physical endurance—marking my first official competitive achievement in college.
 
 ### 🏫 School Achievements (Grades 7 – 12)
 * **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
-* **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition[cite: 10].
-* **3rd Place – Arab Robotics Championship:** Represented Qatar internationally, contributing to algorithm development and strategic decision-making for the robotics team[cite: 5, 8].
+* **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition for outstanding scientific research[cite: 10].
+* **3rd Place – Arab Robotics Championship:** Represented Qatar internationally in the Ball Collector Robot Challenge, contributing to algorithm development and strategic decision-making for the robotics team[cite: 5, 8].
 * **3rd Place – FIRST Tech Challenge:** Regional engineering competition achievement in Grade 10.
-* **Gold Award – Ibtikar:** Scientific innovation competition recognition in Grade 11[cite: 5, 11].
-* **2nd Place – Ibtikar:** Scientific innovation competition achievement[cite: 5, 9].
-* **3rd Place – Ball Collection Robot Competition:** Robotics engineering competition[cite: 5, 8].
+* **Gold Award – Ibtikar:** Recognized for scientific innovation in Grade 11[cite: 5, 11].
+* **2nd Place – Ibtikar:** National scientific innovation competition achievement[cite: 5, 9].
+* **3rd Place – Ball Collection Robot Competition:** Local robotics engineering competition[cite: 5, 8].
+* **Competition Applications & Frameworks (Ibtikar & ICF 2026):** Developed specialized software, application prototypes, and biology application projects for national scientific exhibitions.
 
 ---
 
@@ -68,7 +69,6 @@
 * **H Karate – Professional Tournament Scoring System:** Developed a dedicated web platform for tracking competitive Karate matches ([Live App](https://h-karate-app.web.app)).
 * **Energy Clicker:** Interactive web application built using vanilla HTML, CSS, and JavaScript.
 * **Websites & Portfolios:** Developed multiple web properties including *Hosam's website*, *Karate Masters Academy*, *Schedule*, *The Nano Wall*, and custom sites for peers.
-* **Competition Frameworks (Ibtikar & ICF 2026):** Developed specialized software and application prototypes for national science and innovation exhibitions.
 
 #### **Game Development & Minecraft Mods**
 * **Hosam's 3D Game:** Interactive 3D project built using Scratch (SB3).
