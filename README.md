@@ -24,16 +24,12 @@
 
 ---
 
-## Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,matlab,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
-</p>
-
----
-
 ## Honors & Scientific Achievements
 
+### 🎓 University / College Achievements (E-JUST)
+* **Open Sumo Competition Participant (Team Titan-X):** Represented team **Titan-X** in the university's open sumo robotics competition, marking my first official competitive achievement in college.
+
+### 🏫 School Achievements (Grades 7 – 12)
 * **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
 * **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition[cite: 10].
 * **3rd Place – Arab Robotics Championship:** Represented Qatar internationally, contributing to algorithm development and strategic decision-making for the robotics team[cite: 5, 8].
@@ -44,10 +40,15 @@
 
 ---
 
-## Projects
+## Languages and Tools:
 
-### **University Projects & Competitions (E-JUST)**
-* **Open Sumo Competition (Team Titan-X):** Participated in this year's open sumo competition representing team **Titan-X**, designing and deploying an advanced competitive robotics platform optimized for match strategy and physical endurance.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,matlab,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
+</p>
+
+---
+
+## Projects
 
 ### **Completed Projects**
 * **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers[cite: 4].
