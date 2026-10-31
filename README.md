@@ -39,7 +39,7 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
 </p>
 
 ---
