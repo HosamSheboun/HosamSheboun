@@ -39,12 +39,20 @@
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,bash,raspberrypi,arduino,espressif,react,nodejs,npm,mysql,mongodb,firebase,wordpress,git,gitlab,docker,linux,arch,kali,terminal,vscode,neovim,postman,kicad,blender,photoshop,figma,unity,unreal,godot,powerbi&perline=7" />
+  <b>Programming Languages & Core Tech</b><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,bash" /><br><br>
+  <b>Embedded Systems, Frameworks & Databases</b><br>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,espressif,react,nodejs,npm,mysql,mongodb,firebase,wordpress" /><br><br>
+  <b>DevOps, OS, Design & Game Engines</b><br>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,linux,arch,kali,terminal,vscode,neovim,postman,kicad,blender,photoshop,figma,unity,unreal,godot,powerbi" />
 </p>
 
 ---
 
 ## Projects
+
+### **University Projects & Competitions (E-JUST)**
+* **Open Sumo Competition (Team Titan-X):** Participated in this year's open sumo competition representing team **Titan-X**, designing and deploying an advanced competitive robotics platform optimized for match strategy and physical endurance.
 
 ### **Completed Projects**
 * **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers[cite: 4].
@@ -52,7 +60,7 @@
 * **H Karate – Professional Tournament Scoring System:** Developed a dedicated web platform for tracking competitive Karate matches ([Live App](https://h-karate-app.web.app)).
 * **Energy Clicker:** Interactive web application built using vanilla HTML, CSS, and JavaScript.
 
-### **Ongoing Projects & Explorations**
+### **Ongoing Explorations**
 * **Autonomous Sumo Robot:** Exploring reinforcement learning and autonomous decision-making algorithms powered by a Raspberry Pi Zero 2 W.
 * **Embedded Memory Latch:** Designing a 2-bit breadboard register built using 74-series digital logic ICs.
 * **Dual-Board Robotics Platform:** Integrating an ESP32 and ESP32-CAM module with MPU6050 sensor stabilization over I2C communication.
