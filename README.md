@@ -24,6 +24,14 @@
 
 ---
 
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,matlab,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
+</p>
+
+---
+
 ## Honors & Scientific Achievements
 
 * **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
@@ -33,14 +41,6 @@
 * **Gold Award – Ibtikar:** Scientific innovation competition recognition in Grade 11[cite: 5, 11].
 * **2nd Place – Ibtikar:** Scientific innovation competition achievement[cite: 5, 9].
 * **3rd Place – Ball Collection Robot Competition:** Robotics engineering competition[cite: 5, 8].
-
----
-
-## Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
-</p>
 
 ---
 
