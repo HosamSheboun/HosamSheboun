@@ -36,6 +36,7 @@
 
 ### 🎓 University / College Achievements (E-JUST)
 * **Open Sumo Competition Participant (Team Titan-X):** Represented team **Titan-X** in the university's open sumo robotics competition, designing and deploying a competitive robotics platform optimized for match strategy and physical endurance—marking my first official competitive achievement in college.
+* more is coming......
 
 ### 🏫 School Achievements (Grades 7 – 12)
 * **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
@@ -45,7 +46,7 @@
 * **Gold Award – Ibtikar:** Recognized for scientific innovation in Grade 11[cite: 5, 11].
 * **2nd Place – Ibtikar:** National scientific innovation competition achievement[cite: 5, 9].
 * **3rd Place – Ball Collection Robot Competition:** Local robotics engineering competition[cite: 5, 8].
-* **Competition Applications & Frameworks (Ibtikar, ICF 2026 & Biology App):** Developed specialized software, application prototypes, and biology application projects (`مسابقة التطبيق - احياء`) for national scientific exhibitions.
+* **Competition Applications & Frameworks (Ibtikar, ICF 2026 & Biology App):** Developed specialized software, application prototypes, and biology application projects (`The nano wall`) for national scientific exhibitions.
 
 ---
 
