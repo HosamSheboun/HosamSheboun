@@ -19,7 +19,7 @@
 
 ## About Me
 
-* 🌍 **Background:** Born and raised in Qatar; currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**[cite: 4].
+* 🌍 **Background:** Born and raised in Qatar; currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**.
 * 🔬 **Passion:** Bridging low-level hardware prototyping with high-level artificial intelligence architectures.
 
 ---
