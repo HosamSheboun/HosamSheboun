@@ -19,7 +19,7 @@
 
 ## About Me
 
-* 🌍 **Background:** Born and raised in Qatar; currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**[cite: 4].
+* 🌍 **Background:** Born and raised in Qatar; currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**.
 * 🔬 **Passion:** Bridging low-level hardware prototyping with high-level artificial intelligence architectures.
 
 ---
@@ -39,13 +39,13 @@
 * more is coming......
 
 ### 🏫 School Achievements (Grades 7 – 12)
-* **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
-* **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition for outstanding scientific research[cite: 10].
-* **3rd Place – Arab Robotics Championship:** Represented Qatar internationally in the Ball Collector Robot Challenge, contributing to algorithm development and strategic decision-making for the robotics team[cite: 5, 8].
+* **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8.
+* **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition for outstanding scientific research.
+* **3rd Place – Arab Robotics Championship:** Represented Qatar internationally in the Ball Collector Robot Challenge, contributing to algorithm development and strategic decision-making for the robotics team.
 * **3rd Place – FIRST Tech Challenge:** Regional engineering competition achievement in Grade 10.
-* **Gold Award – Ibtikar:** Recognized for scientific innovation in Grade 11[cite: 5, 11].
-* **2nd Place – Ibtikar:** National scientific innovation competition achievement[cite: 5, 9].
-* **3rd Place – Ball Collection Robot Competition:** Local robotics engineering competition[cite: 5, 8].
+* **Gold Award – Ibtikar:** Recognized for scientific innovation in Grade 11.
+* **2nd Place – Ibtikar:** National scientific innovation competition achievement.
+* **3rd Place – Ball Collection Robot Competition:** Local robotics engineering competition.
 * **Competition Applications & Frameworks (Ibtikar, ICF 2026 & Biology App):** Developed specialized software, application prototypes, and biology application projects (`The nano wall`) for national scientific exhibitions.
 
 ---
@@ -55,8 +55,8 @@
 ### Completed Projects (Grades 7 – 12)
 
 #### **AI & Autonomous Systems**
-* **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers[cite: 4].
-* **Intelligent Vehicle Speed Control System:** Developed a multi-phase system featuring color-detection road sign parsing followed by an upgraded HC-12 wireless communication architecture for automated vehicle speed regulation[cite: 4, 5].
+* **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers.
+* **Intelligent Vehicle Speed Control System:** Developed a multi-phase system featuring color-detection road sign parsing followed by an upgraded HC-12 wireless communication architecture for automated vehicle speed regulation.
 * **H AI System:** Custom modular Python engine featuring core predictive logic, logging, and knowledge databases.
 * **Autonomous Sumo Robot:** Built and tested an autonomous sumo robot platform exploring reinforcement learning and decision-making algorithms powered by a Raspberry Pi Zero 2 W.
 
@@ -83,4 +83,4 @@
 ## Leadership & Extracurricular Experience
 
 * **Founder & Team Leader – The Quantum Paradox Tech Team:** Founded and directed a student technology team, managing project development, workflow organization, and mentoring peers in programming and electronics[cite: 5]. Trusted by educators with team formation and technical mentorship.
-* **Karate Instructor & Competitor:** Active coach and competitor at Karate Masters Academy holding a 1-Dan black belt recognized by the Qatar Taekwondo, Judo & Karate Federation[cite: 5, 6]. Fosters discipline, strategic thinking, teamwork, and athlete development[cite: 5].
+* **Karate Instructor & Competitor:** Active coach and competitor at Karate Masters Academy holding a 1-Dan black belt recognized by the Qatar Taekwondo, Judo & Karate Federation. Fosters discipline, strategic thinking, teamwork, and athlete development.
