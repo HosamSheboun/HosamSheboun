@@ -10,10 +10,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HosamSheboun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/HosamSheboun"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:hosamsheboun@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -21,14 +17,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 🌍 **Background:** Born and raised in Qatar; currently pursuing a Bachelor of Science in Computer Science and Information Technology at the **Egypt-Japan University of Science and Technology (E-JUST)**[cite: 4].
 * 🔬 **Passion:** Bridging low-level hardware prototyping with high-level artificial intelligence architectures.
 
 ---
 
-## 🏆 Honors & Scientific Achievements
+## Honors & Scientific Achievements
 
 * **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
 * **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition[cite: 10].
@@ -40,15 +36,15 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+## Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,raspberrypi,arduino,git,docker,linux,vscode,kicad&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,go,ruby,kotlin,js,html,css,bash,raspberrypi,arduino,espressif,git,docker,linux,arch,kali,vscode,kicad&perline=7" />
 </p>
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### **Completed Projects**
 * **AI Environmental Safety Drone System (Lead Developer):** Designed an embedded drone monitoring platform integrating gas sensors, thermal imaging, encrypted wireless communication, and memory-optimized machine learning models on ESP32 microcontrollers[cite: 4].
@@ -63,14 +59,14 @@
 
 ---
 
-## 👔 Leadership & Extracurricular Experience
+## Leadership & Extracurricular Experience
 
 * **Founder & Team Leader – The Quantum Paradox Tech Team:** Founded and directed a student technology team, managing project development, workflow organization, and mentoring peers in programming and electronics[cite: 5]. Trusted by educators with team formation and technical mentorship.
 * **Karate Instructor & Competitor:** Active coach and competitor at Karate Masters Academy holding a 1-Dan black belt recognized by the Qatar Taekwondo, Judo & Karate Federation[cite: 5, 6]. Fosters discipline, strategic thinking, teamwork, and athlete development[cite: 5].
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HosamSheboun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" />
