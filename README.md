@@ -82,5 +82,5 @@
 
 ## Leadership & Extracurricular Experience
 
-* **Founder & Team Leader – The Quantum Paradox Tech Team:** Founded and directed a student technology team, managing project development, workflow organization, and mentoring peers in programming and electronics[cite: 5]. Trusted by educators with team formation and technical mentorship.
+* **Founder & Team Leader – The Quantum Paradox Tech Team:** Founded and directed a student technology team, managing project development, workflow organization, and mentoring peers in programming and electronics. Trusted by educators with team formation and technical mentorship.
 * **Karate Instructor & Competitor:** Active coach and competitor at Karate Masters Academy holding a 1-Dan black belt recognized by the Qatar Taekwondo, Judo & Karate Federation. Fosters discipline, strategic thinking, teamwork, and athlete development.
