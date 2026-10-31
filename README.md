@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Konnichiwa 🇯🇵, I am Hosam Sheboun
+  Konnichiwa 🎌, I am Hosam Sheboun
 </h1>
 
 <h3 align="center">
@@ -24,12 +24,20 @@
 
 ---
 
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,matlab,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
+</p>
+
+---
+
 ## Honors & Scientific Achievements
 
-### 🎓 University / College Achievements (E-JUST)
+### University / College Achievements (E-JUST)
 * **Open Sumo Competition Participant (Team Titan-X):** Represented team **Titan-X** in the university's open sumo robotics competition, marking my first official competitive achievement in college.
 
-### 🏫 School Achievements (Grades 7 – 12)
+### School Achievements (Grades 7 – 12)
 * **1st Place – Sane'a (5th Edition):** National robotics and innovation competition achievement in Grade 8[cite: 13, 15, 16].
 * **Best Research Award:** Awarded by the Curriculum Department at the Joint Scientific Research Exhibition[cite: 10].
 * **3rd Place – Arab Robotics Championship:** Represented Qatar internationally, contributing to algorithm development and strategic decision-making for the robotics team[cite: 5, 8].
@@ -37,14 +45,6 @@
 * **Gold Award – Ibtikar:** Scientific innovation competition recognition in Grade 11[cite: 5, 11].
 * **2nd Place – Ibtikar:** Scientific innovation competition achievement[cite: 5, 9].
 * **3rd Place – Ball Collection Robot Competition:** Robotics engineering competition[cite: 5, 8].
-
----
-
-## Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,matlab,java,go,ruby,kotlin,ts,js,html,css,php,terminal,raspberrypi,arduino,react,nodejs,npm,docker,mysql,mongodb,firebase,wordpress,git,gitlab,linux,arch,kali,vscode,neovim,postman,blender,photoshop,figma,unity,unreal,godot,kicad&perline=14" />
-</p>
 
 ---
 
